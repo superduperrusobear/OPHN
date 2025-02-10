@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/OPHN/static/css/main.1d28937f.css",
-    "main.js": "/OPHN/static/js/main.c6a8eff0.js",
+    "main.js": "/OPHN/static/js/main.5d88d203.js",
     "index.html": "/OPHN/index.html",
     "main.1d28937f.css.map": "/OPHN/static/css/main.1d28937f.css.map",
-    "main.c6a8eff0.js.map": "/OPHN/static/js/main.c6a8eff0.js.map"
+    "main.5d88d203.js.map": "/OPHN/static/js/main.5d88d203.js.map"
   },
   "entrypoints": [
     "static/css/main.1d28937f.css",
-    "static/js/main.c6a8eff0.js"
+    "static/js/main.5d88d203.js"
   ]
 }
